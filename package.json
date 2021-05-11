@@ -1,0 +1,18 @@
+{
+  "name": "learnleetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chenchuyin/learning-LeetCode.git",
+  "author": "chenchuyin <1611804874@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./build/两数之和.js"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.23.0",
+    "@typescript-eslint/parser": "^4.23.0",
+    "eslint": "^7.26.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-vue": "^7.9.0"
+  }
+}
